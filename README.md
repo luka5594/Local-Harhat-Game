@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Hardhat Games
 
 Let's work on our solidity skills while deploying against a local hardhat blockchain! Inside this repository you'll find 5 smart contracts labled `Game1` to `Game5`. The goal of each smart contract is to:
@@ -92,3 +93,6 @@ contract Game1 {
 ```
 
 Now when you call `win` on `Game1` you will see `22` show up in your local hardhat node. This will happen even if the transaction reverts!
+=======
+# Local-Harhat-Game
+>>>>>>> 4cfc430c98d3bd9e9c49bea859f26f544e34e521
